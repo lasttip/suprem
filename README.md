@@ -35,8 +35,12 @@ Usuários
 - tailwind
 - PHP
 - HTML
+- javascript
+- jquery
 - CSS
 - MySql
+- SQL
+- PL/SQL
 - vscode
 - GIT
 - linux
