@@ -7,7 +7,7 @@
 
 - Auditoria
 - Chamados Técnicos
-- Consultoria
+- Consultoria: 
   Infra;
   Rede;
   LGPD;
@@ -23,9 +23,9 @@
 - Licitações
 - Manutenção 
 - Patrimônio Digital
-- Pessoas
-Colaborador; 
-Fornecedor; 
+- Pessoas: 
+Colaboradores; 
+Fornecedores; 
 Usuários
 
 # 🛰️ Tecnologias
