@@ -5,42 +5,42 @@
 
 # :hammer: Módulos
 
-- `1` : Auditoria
-- `2` : Chamados Técnicos
-- `3` : Consultoria
-- `3a`: Infra
-- `3b`: Rede
-- `3c`: LGPD
-- `3d`: Segurança da Informação
-- `3e`: Pentest
-- `3f`: Red Hunter
-- `3g`: Aquisições de software e hardware
-- `4`: Desenvolvimento de Sistemas
-- `5` : Contratos
-- `6` : Estoque Digital
-- `7` : Frotas
-- `8` : Licenças Digitais
-- `9` : Licitações
-- `10` : Manutenção 
-- `11` : Patrimônio Digital
-- `12` : Pessoas
-- `12a` : Colaborador
-- `12b` : Fornecedor
-- `12c` : Usuários
+- Auditoria
+- Chamados Técnicos
+- Consultoria
+  Infra;
+  Rede;
+  LGPD;
+  Segurança da Informação;
+  Pentest;
+  Red Hunter;
+  Aquisições de software e hardware
+- Desenvolvimento de Sistemas
+- Contratos
+- Estoque Digital
+- Frotas
+- Licenças Digitais
+- Licitações
+- Manutenção 
+- Patrimônio Digital
+- Pessoas
+Colaborador; 
+Fornecedor; 
+Usuários
 
-# :hammer: Tecnologias
+# 🛰️ Tecnologias
 
-- `1` :Laravel
-- `2` :Blade
-- `3` :tailwind
-- `4` :PHP
-- `5` :HTML
-- `6` :CSS
-- `7` :MySql
-- `8` :vscode
-- `9` :GIT
-- `10` :linux
-- `11` :Sistema WEB
+- Laravel
+- Blade
+- tailwind
+- PHP
+- HTML
+- CSS
+- MySql
+- vscode
+- GIT
+- linux
+- Sistema WEB
 
 # Comandos úteis, desenvolvimento e manutenção 
 
